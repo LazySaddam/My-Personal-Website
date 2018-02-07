@@ -79,9 +79,9 @@ body{
     background-color: #3e8e41;
 }
 #slider img{
-	width: 1266px;
-    height: 650px;
-	vertical-align:middle;
+
+  width: 100%;
+  height: auto;
 
 }
 #slider p{
